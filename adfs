@@ -1,0 +1,72 @@
+json1 = {
+    "id": "tw",
+    'url': "https://twitter.com/",
+    "login": "marvo_esports",
+    'pass': 'i60405891',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdflknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+json2 = {
+    "id": "vk",
+    'url': "https://vk.com/",
+    "login": "evanghelion@bk.ru",
+    'pass': 'a60405891',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdflknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+json3 = {
+    "id": "ok",
+    'url': "https://ok.ru/",
+    "login": "+37361160640",
+    'pass': 'i79649376',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdflknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+json4 = {
+    "id": "gp",
+    'url': "https://www.google.com/",
+    "login": "uls.kusqt@gmail.com",
+    'pass': 'i60405891',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdflknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+json5 = {
+    "id": "pl",
+    'url': "https://www.plurk.com/login?r=",
+    "login": "uls.kusqt@gmail.com",
+    'pass': 'i79649376',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdsadfsfdsdfsd dfs  flknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+json6 = {
+    "id": "ms",
+    'url': "https://myspace.com/signin",
+    "login": "uls.kusqt@gmail.com",
+    'pass': 'i79649376',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdsadfsfdsdfsd dfs  flknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+
+json7 = {
+    "id": "skr",
+    'url': "https://www.skyrock.com/?connect=1",
+    "login": "kusqt",
+    'pass': 'i79649376',
+    'text': 'as.dfnsdlkfsdlkfnhnfdsaj asdlfnalsdf sdsadfsfdsdfsd dfs  flknsdlkafhn lsajfsakljbdfl sakdjfbsakldjbf skdfjasdjbfksd sdkfbsadklfjbksafb',
+    'link': 'https://www.exportportal.com/',
+    'datetime': '',
+    'postonmypage': '1'
+}
+

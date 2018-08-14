@@ -1,0 +1,34 @@
+json = {
+    "id": "li",
+    'url': "https://www.linkedin.com/",
+    "login": "uls.kusqt@gmail.com",
+    'pass': 'i60405891',
+    'text': 'sdfdsgdfh ghfjghj hgfdesfsd asdfaf sd f fshdfh',
+    'link': 'https://www.exportportal.com/register',
+    'datetime': '',
+    "server": "eu",
+    'title': 'title',
+    'image_link': 'https://pp.userapi.com/c844520/v844520448/bd4e7/wbIdUkZLEJ8.jpg',
+    'hashtags': '',
+    'page_post': '1',
+    "groupe_post": '1',
+    "gropes_links": 'link1, link2, link3',
+    'priority': "",
+
+}
+
+id - ID социальной сети [(fb - Facebook), (tw - Twitter), (vk - Vkontakte), (ok - Odnoklassniki), (gp - Google Plus),
+        (pl - Plurk), (ms - MySpace), (sk - Skyrock), (wh - WeHearIt), (rd - Reddit), (li - LinkedIn), (tr - Tumblr)]
+login - Логин для входа (почта, username)
+pass - Пароль для входа
+text - Текст поста (стоит учесть что для Твиттера, Плурка и еще некоторых социалок есть лимит на количество символов)
+link - Ссылка для прикрепления к посту (Share)
+datetime - Дата и время когда нужно запостить
+server - eu, na и тд.
+title - Некоторые социальные сети имеют поле Title, вот туда будет попадать этот текст.
+image_link - Ссылка на картинку, желательно прямая.
+page_post - str ( 0 - если не нужно или 1 - если нужно запостить на личную страницу)
+groupe_post - str ( 0 - если не нужно или 1 - если нужно запостить на личную страницу)
+hashtags - некоторые социалки поддерживают хештеги, тоесть есть отдельный блок с хш (разделять через запятую)
+gropes_links - ссылки на группы куда надо запостить ( желательно списком или разделенные запятой)
+priority - имеет два значения ("" - пустой ( это значит что пост запостится с приоритетом на ссылку) и image - картинка будет ниже текста а ссылка просто будет как текст
